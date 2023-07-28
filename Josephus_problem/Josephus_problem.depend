@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1649245594 source:d:\projects\cb-c\sedgewick\3_eds\josephus_problem\main.c
+	<stdio.h>
+	<stdlib.h>
+
