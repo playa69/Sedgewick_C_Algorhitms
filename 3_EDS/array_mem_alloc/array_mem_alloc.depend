@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1651315480 source:d:\projects\cb-c\sedgewick\3_eds\array_mem_alloc\main.c
+	<stdio.h>
+	<stdlib.h>
+

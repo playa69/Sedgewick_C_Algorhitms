@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650835750 source:d:\projects\cb-c\sedgewick\3_eds\ex2\main.c
+	<stdio.h>
+	<stdlib.h>
+
